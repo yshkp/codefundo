@@ -9,7 +9,7 @@ Client also using this app to get the names of a person around it so that he cou
 It also does not need internet to be connected.<br />
 The motive is to save life of as many people as we can. And main advantage that we get is it does not requrie any additional hardware to run and can operate in any remote locations.
 ## Working 
-Disaster management will be having the server and full source control over it. Users get registered with their name,contact number and address.In any unfortunate conditions, victims can just open their bluetooth and app after that, help button after then it will search for nearest bluetooth connection and by that his identity will be listed on the client's server.*Despite having short range connections of bluetooth it has the capability to cover large area as it works on bluetooth connectivity so any person's bluetooth can connect to any others and both will get listed. Like this it will create chain to connect others via others.* <br />
+Disaster management will be having the server and full source control over it. Users get registered with their name,contact number and address.In any unfortunate conditions, victims can just open their bluetooth and app after that, help button after then it will search for nearest bluetooth connection and by that his identity will be listed on the client's server.**Despite having short range connections of bluetooth it has the capability to cover large area as it works on bluetooth connectivity so any person's bluetooth can connect to any others and both will get listed. Like this it will create chain to connect others via others.** <br />
 Life saver through that list can search of victims listed upon. <br />
 ### Advantages
  -  No internet connection required.
