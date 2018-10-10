@@ -12,5 +12,5 @@ The motive is to save life of as many people as we can. And main advantage that 
 Disaster management will be having the server and full source control over it. Users get registered with their name,contact number and address.In any unfortunate conditions, victims can just open their bluetooth and app after that, help button after then it will search for nearest bluetooth connection and by that his identity will be listed on the client's server. <br />
 Life saver through that list can search of victims listed upon. <br />
 ### Advantages
--No internet connection required.
--Ease of use.
+ -  No internet connection required.
+ -  Ease of use.
