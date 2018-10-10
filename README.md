@@ -14,3 +14,5 @@ Life saver through that list can search of victims listed upon. <br />
 ### Advantages
  -  No internet connection required.
  -  Ease of use.
+ -  Proper management of data.
+ -  Can cover large distance through chain of connections.
